@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 Those versions which only include documentation change might not be included here.
 
+### [1.7.2](https://github.com/grimmerk/d4c-queue/compare/v1.7.1...v1.7.2) (2026-11-17)
+
+Maintenance release: maintainer account migrated from grimmer to grimmerk. No functional changes.
+
 ### [1.7.0](https://github.com/grimmer0125/d4c-queue/compare/v1.6.9...v1.7.0) (2021-11-15)
 
 Add option dropWhenReachLimit for better throtting effect.

@@ -5,8 +5,15 @@
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/grimmer0125/d4c-queue",
-  "homepage": "https://grimmer0125.github.io/d4c-queue",
+  "author": "grimmerk <k@grimmer.io> (https://github.com/grimmerk)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grimmerk/d4c-queue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grimmerk/d4c-queue/issues"
+  },
+  "homepage": "https://grimmerk.github.io/d4c-queue",
   "license": "MIT",
   "keywords": [
     "task queue",
